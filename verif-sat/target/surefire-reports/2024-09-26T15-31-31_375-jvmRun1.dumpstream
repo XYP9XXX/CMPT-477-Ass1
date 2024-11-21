@@ -1,0 +1,60 @@
+# Created at 2024-09-26T15:31:31.844
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-09-26T15:31:31.845
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# A fatal error has been detected by the Java Runtime Environment:'.
+
+# Created at 2024-09-26T15:31:31.845
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-09-26T15:31:31.845
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00007ffcc0373020, pid=29304, tid=27824'.
+
+# Created at 2024-09-26T15:31:31.846
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-09-26T15:31:31.847
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# JRE version: OpenJDK Runtime Environment Temurin-17.0.12+7 (17.0.12+7) (build 17.0.12+7)'.
+
+# Created at 2024-09-26T15:31:31.847
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Java VM: OpenJDK 64-Bit Server VM Temurin-17.0.12+7 (17.0.12+7, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, g1 gc, windows-amd64)'.
+
+# Created at 2024-09-26T15:31:31.849
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Problematic frame:'.
+
+# Created at 2024-09-26T15:31:31.849
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C  [msvcp140.dll+0x13020]'.
+
+# Created at 2024-09-26T15:31:31.849
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-09-26T15:31:31.849
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# No core dump will be written. Minidumps are not enabled by default on client versions of Windows'.
+
+# Created at 2024-09-26T15:31:31.849
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-09-26T15:31:31.850
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2024-09-26T15:31:31.872
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# F:\cmpt_477\verif-sat\hs_err_pid29304.log'.
+
+# Created at 2024-09-26T15:31:31.872
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-09-26T15:31:31.873
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# If you would like to submit a bug report, please visit:'.
+
+# Created at 2024-09-26T15:31:31.873
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#   https://github.com/adoptium/adoptium-support/issues'.
+
+# Created at 2024-09-26T15:31:31.874
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# The crash happened outside the Java Virtual Machine in native code.'.
+
+# Created at 2024-09-26T15:31:31.882
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# See problematic frame for where to report the bug.'.
+
+# Created at 2024-09-26T15:31:31.882
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
